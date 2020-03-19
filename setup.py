@@ -10,12 +10,12 @@ from setuptools import find_packages, setup, Command
 # Package meta-data.
 NAME = 'pymysql_kits'
 DESCRIPTION = 'pymysql_kits is a tool based on PyMySQL. It can quickly establish a database connection pool and conveniently execute SQL statements.'
-URL = 'https://github.com/guanzhenxing/pymysql_utils'
+URL = 'https://github.com/guanzhenxing/pymysql-kits'
 EMAIL = 'guan.zhenxing@foxmail.com'
 AUTHOR = 'Jesen Kwan'
 REQUIRES_PYTHON = '>=3.7.0'
-VERSION = '0.1.0'
-KEYWORDS = 'mysql connection pool'
+VERSION = '0.1.1'
+KEYWORDS = 'pymysql connection pool'
 
 # What packages are required for this module to be executed?
 REQUIRED = [
