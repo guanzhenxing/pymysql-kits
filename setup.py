@@ -14,7 +14,7 @@ URL = 'https://github.com/guanzhenxing/pymysql-kits'
 EMAIL = 'guan.zhenxing@foxmail.com'
 AUTHOR = 'Jesen Kwan'
 REQUIRES_PYTHON = '>=3.7.0'
-VERSION = '0.1.1'
+VERSION = '0.1.2'
 KEYWORDS = 'pymysql connection pool'
 
 # What packages are required for this module to be executed?
