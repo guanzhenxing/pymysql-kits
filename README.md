@@ -18,6 +18,8 @@ Contributing:
 
 ## Installation
 
+pip install pymysql-kits
+
 ## Example
 
 The following examples make use of a simple table

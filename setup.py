@@ -13,7 +13,7 @@ DESCRIPTION = 'pymysql_kits is a tool based on PyMySQL. It can quickly establish
 URL = 'https://github.com/guanzhenxing/pymysql-kits'
 EMAIL = 'guan.zhenxing@foxmail.com'
 AUTHOR = 'Jesen Kwan'
-REQUIRES_PYTHON = '>=3.7.0'
+REQUIRES_PYTHON = '>=3.5.0'
 VERSION = '0.1.2'
 KEYWORDS = 'pymysql connection pool'
 
@@ -108,8 +108,6 @@ setup(
     extras_require=EXTRAS,
     classifiers=[
         'Development Status :: 5 - Production/Stable',
-        'Programming Language :: Python :: 2',
-        'Programming Language :: Python :: 2.7',
         'Programming Language :: Python :: 3',
         'Programming Language :: Python :: 3.5',
         'Programming Language :: Python :: 3.6',
